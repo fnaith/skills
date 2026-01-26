@@ -2,7 +2,7 @@
 
 | Skill | Url | Type |
 | ---- | ---- | ---- |
-| ab-test-setup | https://skills.sh/sickn33/antigravity-awesome-skills/ab-test-setup |
+| ab-test-setup | https://skills.sh/sickn33/antigravity-awesome-skills/ab-test-setup | test |
 | accessibility-compliance | https://skills.sh/wshobson/agents/accessibility-compliance |
 | agent-md-refactor | https://skills.sh/softaworks/agent-toolkit/agent-md-refactor |
 | airflow-dag-patterns | https://skills.sh/wshobson/agents/airflow-dag-patterns | tool |
@@ -79,7 +79,7 @@
 | docx | https://skills.sh/skillcreatorai/ai-agent-skills/docx | tool |
 | domain-name-brainstormer | https://skills.sh/davila7/claude-code-templates/domain-name-brainstormer |
 | draw-io | https://skills.sh/davila7/claude-code-templates/draw-io | tool |
-| e2e-testing-patterns | https://skills.sh/wshobson/agents/e2e-testing-patterns |
+| e2e-testing-patterns | https://skills.sh/wshobson/agents/e2e-testing-patterns | test |
 | email-sequence | https://skills.sh/sickn33/antigravity-awesome-skills/email-sequence |
 | embedded-systems | https://skills.sh/jeffallan/claude-skills/embedded-systems |
 | employment-contract-templates | https://skills.sh/wshobson/agents/employment-contract-templates |
@@ -186,7 +186,7 @@
 | python-performance-optimization | https://skills.sh/wshobson/agents/python-performance-optimization | tool |
 | python-pro | https://skills.sh/jeffallan/claude-skills/python-pro | tool |
 | python-testing-patterns | https://skills.sh/wshobson/agents/python-testing-patterns | tool |
-| qa-test-planner | https://skills.sh/softaworks/agent-toolkit/qa-test-planner |
+| qa-test-planner | https://skills.sh/softaworks/agent-toolkit/qa-test-planner | test |
 | react-components | https://github.com/google-labs-code/stitch-skills/tree/main/skills/react-components | tool |
 | react-dev | https://skills.sh/softaworks/agent-toolkit/react-dev | tool |
 | react-email | https://skills.sh/resend/react-email/react-email | tool |
@@ -206,7 +206,7 @@
 | saga-orchestration | https://skills.sh/wshobson/agents/saga-orchestration |
 | sast-configuration | https://skills.sh/wshobson/agents/sast-configuration |
 | schema-markup | https://skills.sh/sickn33/antigravity-awesome-skills/schema-markup |
-| screen-reader-testing | https://skills.sh/wshobson/agents/screen-reader-testing |
+| screen-reader-testing | https://skills.sh/wshobson/agents/screen-reader-testing | test |
 | secrets-management | https://skills.sh/wshobson/agents/secrets-management |
 | secure-code-guardian | https://skills.sh/jeffallan/claude-skills/secure-code-guardian |
 | security-requirement-extraction | https://skills.sh/wshobson/agents/security-requirement-extraction |
@@ -237,9 +237,9 @@
 | temporal-python-testing | https://skills.sh/wshobson/agents/temporal-python-testing | tool |
 | terraform-engineer | https://skills.sh/jeffallan/claude-skills/terraform-engineer | tool |
 | terraform-module-library | https://skills.sh/wshobson/agents/terraform-module-library | tool |
-| test-driven-development | https://skills.sh/davila7/claude-code-templates/test-driven-development |
-| test-fixing | https://skills.sh/sickn33/antigravity-awesome-skills/test-fixing |
-| test-master | https://skills.sh/jeffallan/claude-skills/test-master |
+| test-driven-development | https://skills.sh/davila7/claude-code-templates/test-driven-development | test |
+| test-fixing | https://skills.sh/sickn33/antigravity-awesome-skills/test-fixing | test |
+| test-master | https://skills.sh/jeffallan/claude-skills/test-master | test |
 | theme-factory | https://skills.sh/davila7/claude-code-templates/theme-factory |
 | threat-mitigation-mapping | https://skills.sh/wshobson/agents/threat-mitigation-mapping |
 | timeline-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/timeline-creator |
@@ -249,12 +249,12 @@
 | ui-ux-pro-max | https://skills.sh/sickn33/antigravity-awesome-skills/ui-ux-pro-max |
 | verification-before-completion | https://skills.sh/davila7/claude-code-templates/verification-before-completion |
 | visual-design-foundations | https://skills.sh/wshobson/agents/visual-design-foundations |
-| wcag-audit-patterns | https://skills.sh/wshobson/agents/wcag-audit-patterns |
+| wcag-audit-patterns | https://skills.sh/wshobson/agents/wcag-audit-patterns | test |
 | web-artifacts-builder | https://skills.sh/davila7/claude-code-templates/web-artifacts-builder |
 | web-component-design | https://skills.sh/wshobson/agents/web-component-design |
 | web-design-guidelines | https://skills.sh/dedalus-erp-pas/foundation-skills/web-design-guidelines |
 | web-to-markdown | https://skills.sh/softaworks/agent-toolkit/web-to-markdown | tool |
-| webapp-testing | https://skills.sh/skillcreatorai/ai-agent-skills/webapp-testing |
+| webapp-testing | https://skills.sh/skillcreatorai/ai-agent-skills/webapp-testing | test |
 | websocket-engineer | https://skills.sh/jeffallan/claude-skills/websocket-engineer | tool |
 | workflow-orchestration-patterns | https://skills.sh/wshobson/agents/workflow-orchestration-patterns |
 | workflow-patterns | https://skills.sh/wshobson/agents/workflow-patterns |
