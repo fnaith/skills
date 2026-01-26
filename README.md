@@ -1,91 +1,90 @@
 ﻿# skills
-
 | Skill | Url | Type |
 | ---- | ---- | ---- |
-| ab-test-setup | https://skills.sh/sickn33/antigravity-awesome-skills/ab-test-setup | test |
+| ab-test-setup | https://skills.sh/sickn33/antigravity-awesome-skills/ab-test-setup |
 | accessibility-compliance | https://skills.sh/wshobson/agents/accessibility-compliance | uiux |
-| agent-md-refactor | https://skills.sh/softaworks/agent-toolkit/agent-md-refactor |
+| agent-md-refactor | https://skills.sh/softaworks/agent-toolkit/agent-md-refactor | tool |
 | airflow-dag-patterns | https://skills.sh/wshobson/agents/airflow-dag-patterns | tool |
 | algorithmic-art | https://skills.sh/davila7/claude-code-templates/algorithmic-art |
 | analytics-tracking | https://skills.sh/sickn33/antigravity-awesome-skills/analytics-tracking |
-| anti-reversing-techniques | https://skills.sh/wshobson/agents/anti-reversing-techniques |
-| api-design-principles | https://skills.sh/wshobson/agents/api-design-principles |
-| api-designer | https://skills.sh/jeffallan/claude-skills/api-designer |
-| architecture-decision-records | https://skills.sh/wshobson/agents/architecture-decision-records |
-| architecture-designer | https://skills.sh/jeffallan/claude-skills/architecture-designer |
-| architecture-diagram-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/architecture-diagram-creator |
-| architecture-patterns | https://skills.sh/wshobson/agents/architecture-patterns |
+| anti-reversing-techniques | https://skills.sh/wshobson/agents/anti-reversing-techniques | sasd |
+| api-design-principles | https://skills.sh/wshobson/agents/api-design-principles | sasd |
+| api-designer | https://skills.sh/jeffallan/claude-skills/api-designer | sasd |
+| architecture-decision-records | https://skills.sh/wshobson/agents/architecture-decision-records | sasd |
+| architecture-designer | https://skills.sh/jeffallan/claude-skills/architecture-designer | sasd |
+| architecture-diagram-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/architecture-diagram-creator | sasd |
+| architecture-patterns | https://skills.sh/wshobson/agents/architecture-patterns | sasd |
 | async-python-patterns | https://skills.sh/wshobson/agents/async-python-patterns | tool |
 | attack-tree-construction | https://skills.sh/wshobson/agents/attack-tree-construction |
-| audit-website | https://skills.sh/squirrelscan/skills/audit-website |
-| backend-to-frontend-handoff-docs | https://skills.sh/softaworks/agent-toolkit/backend-to-frontend-handoff-docs |
+| audit-website | https://skills.sh/squirrelscan/skills/audit-website | sasd |
+| backend-to-frontend-handoff-docs | https://skills.sh/softaworks/agent-toolkit/backend-to-frontend-handoff-docs | sasd |
 | backtesting-frameworks | https://skills.sh/wshobson/agents/backtesting-frameworks |
 | bash-defensive-patterns | https://skills.sh/wshobson/agents/bash-defensive-patterns | tool |
 | bats-testing-patterns | https://skills.sh/wshobson/agents/bats-testing-patterns | tool |
-| better-auth-best-practices | https://skills.sh/better-auth/skills/better-auth-best-practices |
+| better-auth-best-practices | https://skills.sh/better-auth/skills/better-auth-best-practices | sasd |
 | billing-automation | https://skills.sh/wshobson/agents/billing-automation |
-| binary-analysis-patterns | https://skills.sh/wshobson/agents/binary-analysis-patterns |
+| binary-analysis-patterns | https://skills.sh/wshobson/agents/binary-analysis-patterns | sasd |
 | brainstorming | https://skills.sh/everyinc/compound-engineering-plugin/brainstorming |
 | brand-guidelines | https://skills.sh/davila7/claude-code-templates/brand-guidelines |
-| c4-architecture | https://skills.sh/softaworks/agent-toolkit/c4-architecture |
+| c4-architecture | https://skills.sh/softaworks/agent-toolkit/c4-architecture | sasd |
 | canvas-design | https://skills.sh/davila7/claude-code-templates/canvas-design | uiux |
-| changelog-automation | https://skills.sh/wshobson/agents/changelog-automation |
-| changelog-generator | https://skills.sh/dedalus-erp-pas/foundation-skills/changelog-generator |
-| chaos-engineer | https://skills.sh/jeffallan/claude-skills/chaos-engineer |
-| cli-developer | https://skills.sh/jeffallan/claude-skills/cli-developer |
-| cloud-architect | https://skills.sh/jeffallan/claude-skills/cloud-architect |
-| code-auditor | https://skills.sh/mhattingpete/claude-skills-marketplace/code-auditor |
-| code-documenter | https://skills.sh/jeffallan/claude-skills/code-documenter |
-| code-execution | https://skills.sh/mhattingpete/claude-skills-marketplace/code-execution |
-| code-refactor | https://skills.sh/mhattingpete/claude-skills-marketplace/code-refactor |
-| code-reviewer | https://skills.sh/alirezarezvani/claude-skills/code-reviewer |
-| code-transfer | https://skills.sh/mhattingpete/claude-skills-marketplace/code-transfer |
-| codebase-documenter | https://skills.sh/ailabs-393/ai-labs-claude-skills/codebase-documenter |
-| command-creator | https://skills.sh/softaworks/agent-toolkit/command-creator |
+| changelog-automation | https://skills.sh/wshobson/agents/changelog-automation | sasd |
+| changelog-generator | https://skills.sh/dedalus-erp-pas/foundation-skills/changelog-generator | sasd |
+| chaos-engineer | https://skills.sh/jeffallan/claude-skills/chaos-engineer | sasd |
+| cli-developer | https://skills.sh/jeffallan/claude-skills/cli-developer | sasd |
+| cloud-architect | https://skills.sh/jeffallan/claude-skills/cloud-architect | sasd |
+| code-auditor | https://skills.sh/mhattingpete/claude-skills-marketplace/code-auditor | sasd |
+| code-documenter | https://skills.sh/jeffallan/claude-skills/code-documenter | sasd |
+| code-execution | https://skills.sh/mhattingpete/claude-skills-marketplace/code-execution | sasd |
+| code-refactor | https://skills.sh/mhattingpete/claude-skills-marketplace/code-refactor | sasd |
+| code-reviewer | https://skills.sh/alirezarezvani/claude-skills/code-reviewer | sasd |
+| code-transfer | https://skills.sh/mhattingpete/claude-skills-marketplace/code-transfer | sasd |
+| codebase-documenter | https://skills.sh/ailabs-393/ai-labs-claude-skills/codebase-documenter | sasd |
+| command-creator | https://skills.sh/softaworks/agent-toolkit/command-creator | tool |
 | commit-work | https://skills.sh/softaworks/agent-toolkit/commit-work | tool |
 | competitive-ads-extractor | https://skills.sh/davila7/claude-code-templates/competitive-ads-extractor |
 | competitive-landscape | https://skills.sh/wshobson/agents/competitive-landscape |
 | competitor-alternatives | https://skills.sh/sickn33/antigravity-awesome-skills/competitor-alternatives |
 | content-research-writer | https://skills.sh/davila7/claude-code-templates/content-research-writer |
-| context-driven-development | https://skills.sh/wshobson/agents/context-driven-development |
+| context-driven-development | https://skills.sh/wshobson/agents/context-driven-development | sasd |
 | conversation-analyzer | https://skills.sh/mhattingpete/claude-skills-marketplace/conversation-analyzer |
 | copy-editing | https://skills.sh/sickn33/antigravity-awesome-skills/copy-editing |
 | copywriting | https://skills.sh/sickn33/antigravity-awesome-skills/copywriting |
 | cost-optimization | https://skills.sh/wshobson/agents/cost-optimization |
-| cqrs-implementation | https://skills.sh/wshobson/agents/cqrs-implementation |
+| cqrs-implementation | https://skills.sh/wshobson/agents/cqrs-implementation | sasd |
 | crafting-effective-readmes | https://skills.sh/softaworks/agent-toolkit/crafting-effective-readmes |
 | d3-viz | https://skills.sh/sickn33/antigravity-awesome-skills/d3-viz | tool |
 | dashboard-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/dashboard-creator | uiux |
-| data-quality-frameworks | https://skills.sh/wshobson/agents/data-quality-frameworks |
+| data-quality-frameworks | https://skills.sh/wshobson/agents/data-quality-frameworks | sasd |
 | data-storytelling | https://skills.sh/wshobson/agents/data-storytelling |
-| database-migration | https://skills.sh/wshobson/agents/database-migration |
-| database-optimizer | https://skills.sh/jeffallan/claude-skills/database-optimizer |
-| database-schema-designer | https://skills.sh/softaworks/agent-toolkit/database-schema-designer |
-| dbt-transformation-patterns | https://skills.sh/wshobson/agents/dbt-transformation-patterns |
-| debugging-wizard | https://skills.sh/jeffallan/claude-skills/debugging-wizard |
-| dependency-updater | https://skills.sh/softaworks/agent-toolkit/dependency-updater |
-| dependency-upgrade | https://skills.sh/wshobson/agents/dependency-upgrade |
-| deployment-pipeline-design | https://skills.sh/wshobson/agents/deployment-pipeline-design |
+| database-migration | https://skills.sh/wshobson/agents/database-migration | sasd |
+| database-optimizer | https://skills.sh/jeffallan/claude-skills/database-optimizer | sasd |
+| database-schema-designer | https://skills.sh/softaworks/agent-toolkit/database-schema-designer | sasd |
+| dbt-transformation-patterns | https://skills.sh/wshobson/agents/dbt-transformation-patterns | sasd |
+| debugging-wizard | https://skills.sh/jeffallan/claude-skills/debugging-wizard | sasd |
+| dependency-updater | https://skills.sh/softaworks/agent-toolkit/dependency-updater | sasd |
+| dependency-upgrade | https://skills.sh/wshobson/agents/dependency-upgrade | sasd |
+| deployment-pipeline-design | https://skills.sh/wshobson/agents/deployment-pipeline-design | sasd |
 | design-md | https://skills.sh/google-labs-code/stitch-skills/design-md |
 | design-system-patterns | https://skills.sh/wshobson/agents/design-system-patterns | uiux |
 | design-system-starter | https://skills.sh/softaworks/agent-toolkit/design-system-starter | uiux |
-| developer-growth-analysis | https://skills.sh/davila7/claude-code-templates/developer-growth-analysis |
-| devops-engineer | https://skills.sh/jeffallan/claude-skills/devops-engineer |
+| developer-growth-analysis | https://skills.sh/davila7/claude-code-templates/developer-growth-analysis | sasd |
+| devops-engineer | https://skills.sh/jeffallan/claude-skills/devops-engineer | sasd |
 | difficult-workplace-conversations | https://skills.sh/softaworks/agent-toolkit/difficult-workplace-conversations |
 | dispatching-parallel-agents | https://skills.sh/davila7/claude-code-templates/dispatching-parallel-agents |
-| distributed-tracing | https://skills.sh/wshobson/agents/distributed-tracing |
-| doc-coauthoring | https://skills.sh/skillcreatorai/ai-agent-skills/doc-coauthoring |
+| distributed-tracing | https://skills.sh/wshobson/agents/distributed-tracing | sasd |
+| doc-coauthoring | https://skills.sh/skillcreatorai/ai-agent-skills/doc-coauthoring | sasd |
 | document-skills | https://skills.sh/travisjneuman/.claude/document-skills |
 | docx | https://skills.sh/skillcreatorai/ai-agent-skills/docx | tool |
 | domain-name-brainstormer | https://skills.sh/davila7/claude-code-templates/domain-name-brainstormer |
 | draw-io | https://skills.sh/davila7/claude-code-templates/draw-io | tool |
 | e2e-testing-patterns | https://skills.sh/wshobson/agents/e2e-testing-patterns | test |
 | email-sequence | https://skills.sh/sickn33/antigravity-awesome-skills/email-sequence |
-| embedded-systems | https://skills.sh/jeffallan/claude-skills/embedded-systems |
+| embedded-systems | https://skills.sh/jeffallan/claude-skills/embedded-systems | sasd |
 | employment-contract-templates | https://skills.sh/wshobson/agents/employment-contract-templates |
 | ensemble-solving | https://skills.sh/mhattingpete/claude-skills-marketplace/ensemble-solving |
-| error-handling-patterns | https://skills.sh/wshobson/agents/error-handling-patterns |
-| event-store-design | https://skills.sh/wshobson/agents/event-store-design |
+| error-handling-patterns | https://skills.sh/wshobson/agents/error-handling-patterns | sasd |
+| event-store-design | https://skills.sh/wshobson/agents/event-store-design | sasd |
 | excalidraw | https://skills.sh/softaworks/agent-toolkit/excalidraw | tool |
 | executing-plans | https://skills.sh/davila7/claude-code-templates/executing-plans |
 | fastapi-expert | https://skills.sh/jeffallan/claude-skills/fastapi-expert | tool |
@@ -96,18 +95,18 @@
 | file-operations | https://skills.sh/mhattingpete/claude-skills-marketplace/file-operations | tool |
 | file-organizer | https://skills.sh/davila7/claude-code-templates/file-organizer |
 | fine-tuning-expert | https://skills.sh/jeffallan/claude-skills/fine-tuning-expert |
-| finishing-a-development-branch | https://skills.sh/davila7/claude-code-templates/finishing-a-development-branch |
+| finishing-a-development-branch | https://skills.sh/davila7/claude-code-templates/finishing-a-development-branch | sasd |
 | flowchart-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/flowchart-creator |
 | flutter-expert | https://skills.sh/jeffallan/claude-skills/flutter-expert | tool |
 | form-cro | https://skills.sh/sickn33/antigravity-awesome-skills/form-cro | uiux |
 | free-tool-strategy | https://skills.sh/sickn33/antigravity-awesome-skills/free-tool-strategy |
-| frontend-design | https://skills.sh/skillcreatorai/ai-agent-skills/frontend-design |
-| frontend-to-backend-requirements | https://skills.sh/softaworks/agent-toolkit/frontend-to-backend-requirements |
-| frontend-ui-ux | https://skills.sh/code-yeongyu/oh-my-opencode/frontend-ui-ux |
-| fullstack-guardian | https://skills.sh/jeffallan/claude-skills/fullstack-guardian |
+| frontend-design | https://skills.sh/skillcreatorai/ai-agent-skills/frontend-design | sasd |
+| frontend-to-backend-requirements | https://skills.sh/softaworks/agent-toolkit/frontend-to-backend-requirements | sasd |
+| frontend-ui-ux | https://skills.sh/code-yeongyu/oh-my-opencode/frontend-ui-ux | sasd |
+| fullstack-guardian | https://skills.sh/jeffallan/claude-skills/fullstack-guardian | sasd |
 | game-changing-features | https://skills.sh/softaworks/agent-toolkit/game-changing-features |
-| game-developer | https://skills.sh/jeffallan/claude-skills/game-developer |
-| gdpr-data-handling | https://skills.sh/wshobson/agents/gdpr-data-handling |
+| game-developer | https://skills.sh/jeffallan/claude-skills/game-developer | tool |
+| gdpr-data-handling | https://skills.sh/wshobson/agents/gdpr-data-handling | sasd |
 | git-pushing | https://skills.sh/sickn33/antigravity-awesome-skills/git-pushing | tool |
 | gitops-workflow | https://skills.sh/wshobson/agents/gitops-workflow | tool |
 | go-concurrency-patterns | https://skills.sh/wshobson/agents/go-concurrency-patterns | tool |
@@ -116,9 +115,9 @@
 | grafana-dashboards | https://skills.sh/wshobson/agents/grafana-dashboards | tool |
 | helm-chart-scaffolding | https://skills.sh/wshobson/agents/helm-chart-scaffolding | tool |
 | humanizer | https://skills.sh/blader/humanizer/humanizer |
-| hybrid-cloud-networking | https://skills.sh/wshobson/agents/hybrid-cloud-networking |
+| hybrid-cloud-networking | https://skills.sh/wshobson/agents/hybrid-cloud-networking | sasd |
 | image-enhancer | https://skills.sh/davila7/claude-code-templates/image-enhancer | uiux |
-| incident-runbook-templates | https://skills.sh/wshobson/agents/incident-runbook-templates |
+| incident-runbook-templates | https://skills.sh/wshobson/agents/incident-runbook-templates | sasd |
 | interaction-design | https://skills.sh/wshobson/agents/interaction-design | uiux |
 | internal-comms | https://skills.sh/davila7/claude-code-templates/internal-comms |
 | invoice-organizer | https://skills.sh/davila7/claude-code-templates/invoice-organizer |
@@ -131,57 +130,57 @@
 | kubernetes-specialist | https://skills.sh/jeffallan/claude-skills/kubernetes-specialist | tool |
 | launch-strategy | https://skills.sh/sickn33/antigravity-awesome-skills/launch-strategy |
 | lead-research-assistant | https://skills.sh/davila7/claude-code-templates/lead-research-assistant |
-| linkerd-patterns | https://skills.sh/wshobson/agents/linkerd-patterns |
-| logging-best-practices | https://skills.sh/boristane/agent-skills/logging-best-practices |
+| linkerd-patterns | https://skills.sh/wshobson/agents/linkerd-patterns | sasd |
+| logging-best-practices | https://skills.sh/boristane/agent-skills/logging-best-practices | sasd |
 | logo-creator | https://skills.sh/resciencelab/opc-skills/logo-creator | tool |
 | markdown-to-epub | https://skills.sh/smerchek/claude-epub-skill/markdown-to-epub-converter | tool |
 | market-sizing-analysis | https://skills.sh/wshobson/agents/market-sizing-analysis |
 | marketing-ideas | https://skills.sh/sickn33/antigravity-awesome-skills/marketing-ideas |
 | marketing-psychology | https://skills.sh/sickn33/antigravity-awesome-skills/marketing-psychology |
-| marp-slide | https://skills.sh/softaworks/agent-toolkit/marp-slide |
+| marp-slide | https://skills.sh/softaworks/agent-toolkit/marp-slide | uiux |
 | meeting-insights-analyzer | https://skills.sh/skillcreatorai/ai-agent-skills/meeting-insights-analyzer |
 | meme-factory | https://skills.sh/softaworks/agent-toolkit/meme-factory |
-| memory-forensics | https://skills.sh/wshobson/agents/memory-forensics |
-| memory-safety-patterns | https://skills.sh/wshobson/agents/memory-safety-patterns |
-| mermaid-diagrams | https://skills.sh/softaworks/agent-toolkit/mermaid-diagrams |
-| microservices-architect | https://skills.sh/jeffallan/claude-skills/microservices-architect |
-| microservices-patterns | https://skills.sh/wshobson/agents/microservices-patterns |
-| ml-pipeline | https://skills.sh/jeffallan/claude-skills/ml-pipeline |
-| ml-pipeline-workflow | https://skills.sh/wshobson/agents/ml-pipeline-workflow |
+| memory-forensics | https://skills.sh/wshobson/agents/memory-forensics | sasd |
+| memory-safety-patterns | https://skills.sh/wshobson/agents/memory-safety-patterns | sasd |
+| mermaid-diagrams | https://skills.sh/softaworks/agent-toolkit/mermaid-diagrams | tool |
+| microservices-architect | https://skills.sh/jeffallan/claude-skills/microservices-architect | sasd |
+| microservices-patterns | https://skills.sh/wshobson/agents/microservices-patterns | sasd |
+| ml-pipeline | https://skills.sh/jeffallan/claude-skills/ml-pipeline | sasd |
+| ml-pipeline-workflow | https://skills.sh/wshobson/agents/ml-pipeline-workflow | sasd |
 | modern-javascript-patterns | https://skills.sh/wshobson/agents/modern-javascript-patterns | tool |
-| monitoring-expert | https://skills.sh/jeffallan/claude-skills/monitoring-expert |
-| move-code-quality-skill | https://github.com/1NickPappas/move-code-quality-skill |
-| mtls-configuration | https://skills.sh/wshobson/agents/mtls-configuration |
+| monitoring-expert | https://skills.sh/jeffallan/claude-skills/monitoring-expert | sasd |
+| move-code-quality-skill | https://github.com/1NickPappas/move-code-quality-skill | sasd |
+| mtls-configuration | https://skills.sh/wshobson/agents/mtls-configuration | sasd |
 | mui | https://skills.sh/softaworks/agent-toolkit/mui | tool |
-| multi-cloud-architecture | https://skills.sh/wshobson/agents/multi-cloud-architecture |
-| naming-analyzer | https://skills.sh/softaworks/agent-toolkit/naming-analyzer |
+| multi-cloud-architecture | https://skills.sh/wshobson/agents/multi-cloud-architecture | sasd |
+| naming-analyzer | https://skills.sh/softaworks/agent-toolkit/naming-analyzer | sasd |
 | nodejs-backend-patterns | https://skills.sh/wshobson/agents/nodejs-backend-patterns | tool |
-| oauth-integrations | https://skills.sh/jezweb/claude-skills/oauth-integrations |
-| on-call-handoff-patterns | https://skills.sh/wshobson/agents/on-call-handoff-patterns |
+| oauth-integrations | https://skills.sh/jezweb/claude-skills/oauth-integrations | sasd |
+| on-call-handoff-patterns | https://skills.sh/wshobson/agents/on-call-handoff-patterns | sasd |
 | onboarding-cro | https://skills.sh/sickn33/antigravity-awesome-skills/onboarding-cro | uiux |
-| openapi-spec-generation | https://skills.sh/wshobson/agents/openapi-spec-generation |
+| openapi-spec-generation | https://skills.sh/wshobson/agents/openapi-spec-generation | tool |
 | openapi-to-typescript | https://skills.sh/softaworks/agent-toolkit/openapi-to-typescript | tool |
 | page-cro | https://skills.sh/sickn33/antigravity-awesome-skills/page-cro | uiux |
 | paid-ads | https://skills.sh/sickn33/antigravity-awesome-skills/paid-ads |
-| paypal-integration | https://skills.sh/wshobson/agents/paypal-integration |
+| paypal-integration | https://skills.sh/wshobson/agents/paypal-integration | tool |
 | paywall-upgrade-cro | https://skills.sh/sickn33/antigravity-awesome-skills/paywall-upgrade-cro | uiux |
-| pci-compliance | https://skills.sh/wshobson/agents/pci-compliance |
+| pci-compliance | https://skills.sh/wshobson/agents/pci-compliance | sasd |
 | pdf | https://skills.sh/skillcreatorai/ai-agent-skills/pdf | tool |
 | playwright-expert | https://skills.sh/jeffallan/claude-skills/playwright-expert | tool |
 | playwright-skill | https://skills.sh/dedalus-erp-pas/foundation-skills/playwright-skill | tool |
 | popup-cro | https://skills.sh/sickn33/antigravity-awesome-skills/popup-cro | uiux |
 | postgres-pro | https://skills.sh/jeffallan/claude-skills/postgres-pro | tool |
 | postgresql | https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres | tool |
-| postmortem-writing | https://skills.sh/wshobson/agents/postmortem-writing |
+| postmortem-writing | https://skills.sh/wshobson/agents/postmortem-writing | sasd |
 | pptx | https://skills.sh/skillcreatorai/ai-agent-skills/pptx | tool |
 | pricing-strategy | https://skills.sh/sickn33/antigravity-awesome-skills/pricing-strategy |
 | professional-communication | https://skills.sh/softaworks/agent-toolkit/professional-communication |
 | programmatic-seo | https://skills.sh/sickn33/antigravity-awesome-skills/programmatic-seo |
-| project-bootstrapper | https://skills.sh/mhattingpete/claude-skills-marketplace/project-bootstrapper |
-| projection-patterns | https://skills.sh/wshobson/agents/projection-patterns |
-| prometheus-configuration | https://skills.sh/wshobson/agents/prometheus-configuration |
+| project-bootstrapper | https://skills.sh/mhattingpete/claude-skills-marketplace/project-bootstrapper | sasd |
+| projection-patterns | https://skills.sh/wshobson/agents/projection-patterns | sasd |
+| prometheus-configuration | https://skills.sh/wshobson/agents/prometheus-configuration | sasd |
 | prompt-engineer | https://skills.sh/jeffallan/claude-skills/prompt-engineer |
-| protocol-reverse-engineering | https://skills.sh/wshobson/agents/protocol-reverse-engineering |
+| protocol-reverse-engineering | https://skills.sh/wshobson/agents/protocol-reverse-engineering | sasd |
 | python-packaging | https://skills.sh/wshobson/agents/python-packaging | tool |
 | python-performance-optimization | https://skills.sh/wshobson/agents/python-performance-optimization | tool |
 | python-pro | https://skills.sh/jeffallan/claude-skills/python-pro | tool |
@@ -193,47 +192,47 @@
 | react-expert | https://skills.sh/jeffallan/claude-skills/react-expert | tool |
 | react-state-management | https://skills.sh/wshobson/agents/react-state-management | tool |
 | react-useeffect | https://skills.sh/softaworks/agent-toolkit/react-useeffect | tool |
-| receiving-code-review | https://skills.sh/davila7/claude-code-templates/receiving-code-review |
+| receiving-code-review | https://skills.sh/davila7/claude-code-templates/receiving-code-review | sasd |
 | reducing-entropy | https://skills.sh/softaworks/agent-toolkit/reducing-entropy |
 | referral-program | https://skills.sh/sickn33/antigravity-awesome-skills/referral-program |
-| requesting-code-review | https://skills.sh/davila7/claude-code-templates/requesting-code-review |
-| requirements-clarity | https://skills.sh/softaworks/agent-toolkit/requirements-clarity |
+| requesting-code-review | https://skills.sh/davila7/claude-code-templates/requesting-code-review | sasd |
+| requirements-clarity | https://skills.sh/softaworks/agent-toolkit/requirements-clarity | sasd |
 | responsive-design | https://skills.sh/wshobson/agents/responsive-design | uiux |
-| review-implementing | https://skills.sh/mhattingpete/claude-skills-marketplace/review-implementing |
+| review-implementing | https://skills.sh/mhattingpete/claude-skills-marketplace/review-implementing | sasd |
 | risk-metrics-calculation | https://skills.sh/wshobson/agents/risk-metrics-calculation |
 | rust-async-patterns | https://skills.sh/wshobson/agents/rust-async-patterns | tool |
 | rust-engineer | https://skills.sh/jeffallan/claude-skills/rust-engineer | tool |
-| saga-orchestration | https://skills.sh/wshobson/agents/saga-orchestration |
-| sast-configuration | https://skills.sh/wshobson/agents/sast-configuration |
+| saga-orchestration | https://skills.sh/wshobson/agents/saga-orchestration | sasd |
+| sast-configuration | https://skills.sh/wshobson/agents/sast-configuration | sasd |
 | schema-markup | https://skills.sh/sickn33/antigravity-awesome-skills/schema-markup |
 | screen-reader-testing | https://skills.sh/wshobson/agents/screen-reader-testing | test |
-| secrets-management | https://skills.sh/wshobson/agents/secrets-management |
-| secure-code-guardian | https://skills.sh/jeffallan/claude-skills/secure-code-guardian |
-| security-requirement-extraction | https://skills.sh/wshobson/agents/security-requirement-extraction |
-| security-reviewer | https://skills.sh/jeffallan/claude-skills/security-reviewer |
+| secrets-management | https://skills.sh/wshobson/agents/secrets-management | sasd |
+| secure-code-guardian | https://skills.sh/jeffallan/claude-skills/secure-code-guardian | sasd |
+| security-requirement-extraction | https://skills.sh/wshobson/agents/security-requirement-extraction | sasd |
+| security-reviewer | https://skills.sh/jeffallan/claude-skills/security-reviewer | sasd |
 | seo-audit | https://skills.sh/sickn33/antigravity-awesome-skills/seo-audit |
-| service-mesh-observability | https://skills.sh/wshobson/agents/service-mesh-observability |
-| shellcheck-configuration | https://skills.sh/wshobson/agents/shellcheck-configuration |
-| ship-learn-next | https://skills.sh/softaworks/agent-toolkit/ship-learn-next |
+| service-mesh-observability | https://skills.sh/wshobson/agents/service-mesh-observability | sasd |
+| shellcheck-configuration | https://skills.sh/wshobson/agents/shellcheck-configuration | tool |
+| ship-learn-next | https://skills.sh/softaworks/agent-toolkit/ship-learn-next | sasd |
 | signup-flow-cro | https://skills.sh/sickn33/antigravity-awesome-skills/signup-flow-cro | uiux |
 | skill-creator | https://skills.sh/everyinc/compound-engineering-plugin/skill-creator |
 | skill-judge | https://skills.sh/softaworks/agent-toolkit/skill-judge |
-| slo-implementation | https://skills.sh/wshobson/agents/slo-implementation |
+| slo-implementation | https://skills.sh/wshobson/agents/slo-implementation | sasd |
 | social-content | https://skills.sh/sickn33/antigravity-awesome-skills/social-content |
-| spec-miner | https://skills.sh/jeffallan/claude-skills/spec-miner |
+| spec-miner | https://skills.sh/jeffallan/claude-skills/spec-miner | sasd |
 | sql-pro | https://skills.sh/jeffallan/claude-skills/sql-pro | tool |
-| sre-engineer | https://skills.sh/jeffallan/claude-skills/sre-engineer |
+| sre-engineer | https://skills.sh/jeffallan/claude-skills/sre-engineer | sasd |
 | startup-financial-modeling | https://skills.sh/wshobson/agents/startup-financial-modeling |
 | startup-metrics-framework | https://skills.sh/wshobson/agents/startup-metrics-framework |
-| stride-analysis-patterns | https://skills.sh/wshobson/agents/stride-analysis-patterns |
+| stride-analysis-patterns | https://skills.sh/wshobson/agents/stride-analysis-patterns | sasd |
 | stripe-integration | https://skills.sh/sickn33/antigravity-awesome-skills/stripe-integration | tool |
 | subagent-driven-development | https://skills.sh/davila7/claude-code-templates/subagent-driven-development |
-| supabase-postgres-best-practices | https://skills.sh/sickn33/antigravity-awesome-skills/supabase-postgres-best-practices |
-| systematic-debugging | https://skills.sh/vudovn/antigravity-kit/systematic-debugging |
-| tailored-resume-generator | https://skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator |
+| supabase-postgres-best-practices | https://skills.sh/sickn33/antigravity-awesome-skills/supabase-postgres-best-practices | tool |
+| systematic-debugging | https://skills.sh/vudovn/antigravity-kit/systematic-debugging | sasd |
+| tailored-resume-generator | https://skills.sh/composiohq/awesome-claude-skills/tailored-resume-generator | tool |
 | tailwind-design-system | https://skills.sh/wshobson/agents/tailwind-design-system | tool |
 | team-composition-analysis | https://skills.sh/wshobson/agents/team-composition-analysis |
-| technical-doc-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/technical-doc-creator |
+| technical-doc-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/technical-doc-creator | sasd |
 | temporal-python-testing | https://skills.sh/wshobson/agents/temporal-python-testing | tool |
 | terraform-engineer | https://skills.sh/jeffallan/claude-skills/terraform-engineer | tool |
 | terraform-module-library | https://skills.sh/wshobson/agents/terraform-module-library | tool |
@@ -241,25 +240,24 @@
 | test-fixing | https://skills.sh/sickn33/antigravity-awesome-skills/test-fixing | test |
 | test-master | https://skills.sh/jeffallan/claude-skills/test-master | test |
 | theme-factory | https://skills.sh/davila7/claude-code-templates/theme-factory | uiux |
-| threat-mitigation-mapping | https://skills.sh/wshobson/agents/threat-mitigation-mapping |
+| threat-mitigation-mapping | https://skills.sh/wshobson/agents/threat-mitigation-mapping | sasd |
 | timeline-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/timeline-creator |
-| track-management | https://skills.sh/wshobson/agents/track-management |
+| track-management | https://skills.sh/wshobson/agents/track-management | tool |
 | typescript-advanced-types | https://skills.sh/wshobson/agents/typescript-advanced-types | tool |
 | typescript-pro | https://skills.sh/jeffallan/claude-skills/typescript-pro | tool |
 | ui-ux-pro-max | https://skills.sh/sickn33/antigravity-awesome-skills/ui-ux-pro-max | uiux |
 | verification-before-completion | https://skills.sh/davila7/claude-code-templates/verification-before-completion |
 | visual-design-foundations | https://skills.sh/wshobson/agents/visual-design-foundations | uiux |
-| wcag-audit-patterns | https://skills.sh/wshobson/agents/wcag-audit-patterns | test |
+| wcag-audit-patterns | https://skills.sh/wshobson/agents/wcag-audit-patterns | uiux |
 | web-component-design | https://skills.sh/wshobson/agents/web-component-design | tool |
 | web-design-guidelines | https://skills.sh/dedalus-erp-pas/foundation-skills/web-design-guidelines | uiux |
 | web-to-markdown | https://skills.sh/softaworks/agent-toolkit/web-to-markdown | tool |
 | webapp-testing | https://skills.sh/skillcreatorai/ai-agent-skills/webapp-testing | test |
 | websocket-engineer | https://skills.sh/jeffallan/claude-skills/websocket-engineer | tool |
-| workflow-orchestration-patterns | https://skills.sh/wshobson/agents/workflow-orchestration-patterns |
-| workflow-patterns | https://skills.sh/wshobson/agents/workflow-patterns |
+| workflow-orchestration-patterns | https://skills.sh/wshobson/agents/workflow-orchestration-patterns | sasd |
+| workflow-patterns | https://skills.sh/wshobson/agents/workflow-patterns | sasd |
 | writing-clearly-and-concisely | https://skills.sh/obra/the-elements-of-style/writing-clearly-and-concisely |
 | writing-plans | https://skills.sh/davila7/claude-code-templates/writing-plans |
 | writing-skills | https://skills.sh/davila7/claude-code-templates/writing-skills |
 | xlsx | https://skills.sh/skillcreatorai/ai-agent-skills/xlsx | tool |
 | youtube-downloader | https://skills.sh/composiohq/awesome-claude-skills/youtube-downloader | tool |
-

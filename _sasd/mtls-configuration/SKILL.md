@@ -21,11 +21,11 @@ Comprehensive guide to implementing mutual TLS for zero-trust service mesh commu
 ### 1. mTLS Flow
 
 ```
-┌─────────┐                              ┌─────────┐
-│ Service │                              │ Service │
-│    A    │                              │    B    │
-└────┬────┘                              └────┬────┘
-     │                                        │
+┌─────────┐                             ┌─────────┐
+│ Service │                             │ Service │
+│    A    │                             │    B    │
+└────┬────┘                             └────┬────┘
+     │                                       │
 ┌────┴────┐      TLS Handshake          ┌────┴────┐
 │  Proxy  │◄───────────────────────────►│  Proxy  │
 │(Sidecar)│  1. ClientHello             │(Sidecar)│
@@ -33,7 +33,7 @@ Comprehensive guide to implementing mutual TLS for zero-trust service mesh commu
 │         │  3. Client Cert             │         │
 │         │  4. Verify Both Certs       │         │
 │         │  5. Encrypted Channel       │         │
-└─────────┘                              └─────────┘
+└─────────┘                             └─────────┘
 ```
 
 ### 2. Certificate Hierarchy
