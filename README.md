@@ -150,6 +150,7 @@
 | ml-pipeline-workflow | https://skills.sh/wshobson/agents/ml-pipeline-workflow |
 | modern-javascript-patterns | https://skills.sh/wshobson/agents/modern-javascript-patterns |
 | monitoring-expert | https://skills.sh/jeffallan/claude-skills/monitoring-expert |
+| move-code-quality-skill | https://github.com/1NickPappas/move-code-quality-skill |
 | mtls-configuration | https://skills.sh/wshobson/agents/mtls-configuration |
 | mui | https://skills.sh/softaworks/agent-toolkit/mui |
 | multi-cloud-architecture | https://skills.sh/wshobson/agents/multi-cloud-architecture |
