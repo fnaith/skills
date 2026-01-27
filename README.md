@@ -163,8 +163,8 @@
 | paywall-upgrade-cro | https://skills.sh/sickn33/antigravity-awesome-skills/paywall-upgrade-cro | uiux |
 | pci-compliance | https://skills.sh/wshobson/agents/pci-compliance | sasd |
 | pdf | https://skills.sh/skillcreatorai/ai-agent-skills/pdf | tool |
-| playwright-expert | https://skills.sh/jeffallan/claude-skills/playwright-expert | tool |
-| playwright-skill | https://skills.sh/dedalus-erp-pas/foundation-skills/playwright-skill | tool |
+| playwright-expert | https://skills.sh/jeffallan/claude-skills/playwright-expert | test |
+| playwright-skill | https://skills.sh/dedalus-erp-pas/foundation-skills/playwright-skill | test |
 | popup-cro | https://skills.sh/sickn33/antigravity-awesome-skills/popup-cro | uiux |
 | postgres-pro | https://skills.sh/jeffallan/claude-skills/postgres-pro | postgresql |
 | postgresql | https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres | postgresql |
