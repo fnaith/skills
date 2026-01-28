@@ -58,7 +58,7 @@ Before implementing tracking, understand:
 
 ```
 Event Name | Event Category | Properties | Trigger | Notes
----------- | ------------- | ---------- | ------- | -----
+---------- | -------------- | ---------- | ------- | -----
 ```
 
 ### Event Types

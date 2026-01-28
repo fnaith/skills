@@ -33,7 +33,7 @@ Production patterns for Linkerd service mesh - the lightweight, security-first s
 │  ┌─────┐    ┌─────┐    ┌─────┐              │
 │  │proxy│────│proxy│────│proxy│              │
 │  └─────┘    └─────┘    └─────┘              │
-│     │           │           │               │
+│     │          │          │                 │
 │  ┌──┴──┐    ┌──┴──┐    ┌──┴──┐              │
 │  │ app │    │ app │    │ app │              │
 │  └─────┘    └─────┘    └─────┘              │

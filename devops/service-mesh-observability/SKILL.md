@@ -22,7 +22,7 @@ Complete guide to observability patterns for Istio, Linkerd, and service mesh de
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                  Observability                       │
+│                  Observability                      │
 ├─────────────────┬─────────────────┬─────────────────┤
 │     Metrics     │     Traces      │      Logs       │
 │                 │                 │                 │
