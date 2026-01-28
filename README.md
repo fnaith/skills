@@ -149,7 +149,7 @@
 | monitoring-expert | https://skills.sh/jeffallan/claude-skills/monitoring-expert | sasd |
 | move-code-quality-skill | https://github.com/1NickPappas/move-code-quality-skill | sasd |
 | mtls-configuration | https://skills.sh/wshobson/agents/mtls-configuration | sasd |
-| mui | https://skills.sh/softaworks/agent-toolkit/mui | tool |
+| mui | https://skills.sh/softaworks/agent-toolkit/mui | react |
 | multi-cloud-architecture | https://skills.sh/wshobson/agents/multi-cloud-architecture | sasd |
 | naming-analyzer | https://skills.sh/softaworks/agent-toolkit/naming-analyzer | sasd |
 | oauth-integrations | https://skills.sh/jezweb/claude-skills/oauth-integrations | sasd |
