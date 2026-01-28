@@ -1,6 +1,6 @@
 ﻿# skills
 | Skill | Url | Type |
-| ---- | ---- | ---- |
+| ----- | --- | ---- |
 | ab-test-setup | https://skills.sh/sickn33/antigravity-awesome-skills/ab-test-setup | plan |
 | accessibility-compliance | https://skills.sh/wshobson/agents/accessibility-compliance | uiux |
 | airflow-dag-patterns | https://skills.sh/wshobson/agents/airflow-dag-patterns | tool |
@@ -94,7 +94,7 @@
 | fine-tuning-expert | https://skills.sh/jeffallan/claude-skills/fine-tuning-expert | tool |
 | finishing-a-development-branch | https://skills.sh/davila7/claude-code-templates/finishing-a-development-branch | dev |
 | flowchart-creator | https://skills.sh/mhattingpete/claude-skills-marketplace/flowchart-creator | tool |
-| flutter-expert | https://skills.sh/jeffallan/claude-skills/flutter-expert | tool |
+| flutter-expert | https://skills.sh/jeffallan/claude-skills/flutter-expert | _ |
 | form-cro | https://skills.sh/sickn33/antigravity-awesome-skills/form-cro | uiux |
 | free-tool-strategy | https://skills.sh/sickn33/antigravity-awesome-skills/free-tool-strategy | plan |
 | frontend-design | https://skills.sh/skillcreatorai/ai-agent-skills/frontend-design | react |
@@ -102,13 +102,13 @@
 | frontend-ui-ux | https://skills.sh/code-yeongyu/oh-my-opencode/frontend-ui-ux | react |
 | fullstack-guardian | https://skills.sh/jeffallan/claude-skills/fullstack-guardian | dev |
 | game-changing-features | https://skills.sh/softaworks/agent-toolkit/game-changing-features | plan |
-| game-developer | https://skills.sh/jeffallan/claude-skills/game-developer | tool |
+| game-developer | https://skills.sh/jeffallan/claude-skills/game-developer | _ |
 | gdpr-data-handling | https://skills.sh/wshobson/agents/gdpr-data-handling | dev |
 | git-pushing | https://skills.sh/sickn33/antigravity-awesome-skills/git-pushing | tool |
 | gitops-workflow | https://skills.sh/wshobson/agents/gitops-workflow | tool |
-| go-concurrency-patterns | https://skills.sh/wshobson/agents/go-concurrency-patterns | tool |
-| godot-gdscript-patterns | https://skills.sh/wshobson/agents/godot-gdscript-patterns | tool |
-| golang-pro | https://skills.sh/jeffallan/claude-skills/golang-pro | tool |
+| go-concurrency-patterns | https://skills.sh/wshobson/agents/go-concurrency-patterns | _ |
+| godot-gdscript-patterns | https://skills.sh/wshobson/agents/godot-gdscript-patterns | _ |
+| golang-pro | https://skills.sh/jeffallan/claude-skills/golang-pro | _ |
 | grafana-dashboards | https://skills.sh/wshobson/agents/grafana-dashboards | tool |
 | helm-chart-scaffolding | https://skills.sh/wshobson/agents/helm-chart-scaffolding | tool |
 | humanizer | https://skills.sh/blader/humanizer/humanizer | plan |
@@ -196,9 +196,9 @@
 | responsive-design | https://skills.sh/wshobson/agents/responsive-design | uiux |
 | review-implementing | https://skills.sh/mhattingpete/claude-skills-marketplace/review-implementing | dev |
 | risk-metrics-calculation | https://skills.sh/wshobson/agents/risk-metrics-calculation | plan |
-| rust-async-patterns | https://skills.sh/wshobson/agents/rust-async-patterns | tool |
-| rust-engineer | https://skills.sh/jeffallan/claude-skills/rust-engineer | tool |
-| saga-orchestration | https://skills.sh/wshobson/agents/saga-orchestration | dev |
+| rust-async-patterns | https://skills.sh/wshobson/agents/rust-async-patterns | _ |
+| rust-engineer | https://skills.sh/jeffallan/claude-skills/rust-engineer | _ |
+| saga-orchestration | https://skills.sh/wshobson/agents/saga-orchestration | sasd |
 | sast-configuration | https://skills.sh/wshobson/agents/sast-configuration | dev |
 | schema-markup | https://skills.sh/sickn33/antigravity-awesome-skills/schema-markup | plan |
 | screen-reader-testing | https://skills.sh/wshobson/agents/screen-reader-testing | test |
